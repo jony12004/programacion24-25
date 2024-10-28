@@ -2,7 +2,8 @@
 public class Multiplos5for {
 
     public static void main(String[] args) {
-    Multiplos5for.multiplo5();
+        System.out.println("*** Ejercicio 1 Multiplo 5 con for ***");
+        Multiplos5for.multiplo5();
     }
 
     public static void multiplo5(){
