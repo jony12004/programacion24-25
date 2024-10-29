@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="04a8fb50-c3db-401c-808f-a58e3574081c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ejercicio5.4(Bucles).iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio1/Ejercicio1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio1/src/Multiplos5for.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio15/Ejercicio15.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio2/Ejercicio2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio2/src/Multiplos5while.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio4/Ejercicio4.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ejercicio4/src/For20en20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio1/Multiplos5for.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio2/Multiplos5while.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Ejercicio4/For20en20.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ejerciciosbucles/.idea/workspace.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jony12004"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jony12004/programacion24-25.git",
+    "accountId": "d39e9595-82c4-4816-8a7f-267b0ce26473"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 8
+}]]></component>
+  <component name="ProjectId" id="2o5SCyviGrSDaMpEsjSZnUP10bt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.For20en20.executor": "Run",
+    "Application.Multiplos5for.executor": "Run",
+    "Application.Multiplos5while.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/MODULOS 1ºDAW/PROGRAMACION/JAVA/Iniciales/Ejercicios/ejercicios5.4(Bucles)",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "inlay.hints"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.For20en20">
+    <configuration name="For20en20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="For20en20" />
+      <module name="Ejercicio4" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multiplos5for" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multiplos5for" />
+      <module name="Ejercicio1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Multiplos5while" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Multiplos5while" />
+      <module name="Ejercicio2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ejercicio5.4(Bucles)" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ejercicio5.4(Bucles)" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.For20en20" />
+        <item itemvalue="Application.Multiplos5while" />
+        <item itemvalue="Application.Multiplos5for" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="04a8fb50-c3db-401c-808f-a58e3574081c" name="Changes" comment="" />
+      <created>1726931465741</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1726931465741</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Ejercio1 terminado">
+      <option name="closed" value="true" />
+      <created>1730159294456</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1730159294456</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Ejercio1 terminado">
+      <option name="closed" value="true" />
+      <created>1730159727786</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1730159727786</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Ejercicioo4 terminado">
+      <option name="closed" value="true" />
+      <created>1730160393676</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1730160393676</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ejercio1 terminado" />
+    <MESSAGE value="Ejercicioo4 terminado" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ejercicioo4 terminado" />
+  </component>
+</project>
